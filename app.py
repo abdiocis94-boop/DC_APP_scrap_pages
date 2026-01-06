@@ -195,4 +195,5 @@ def main():
             
             with col2:
                 if 'prix_numerique' in df.columns:
+
                     avg
